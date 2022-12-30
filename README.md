@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hubertkin
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python and dart for now
+- 🌱 I’m currently learning ... Python, dart and C programming language
 - 💞️ I’m looking to collaborate on ... python and dart coding projects with flutter
 - 📫 How to reach me ... kingsleyocran94@gmail.com
 
