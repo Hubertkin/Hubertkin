@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hubertkin
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python, dart and C programming language
-- 💞️ I’m looking to collaborate on ... python and dart coding projects with flutter
-- 📫 How to reach me ... kingsleyocran94@gmail.com
+- 👀 I’m interested in  Mobile Dev and Web Dev
+- 🌱 I’m currently proficient in Dart and C/C++ programming language
+- 💞️ I’m looking to collaborate on C/C++ and Dart coding projects with flutter
+- 📫 How to reach me kingsleyocran94@outlook.com
 
 <!---
 Hubertkin/Hubertkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
